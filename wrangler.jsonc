@@ -1,0 +1,8 @@
+{
+  // Site da Plim Plim: só arquivos estáticos (index.html), publicados pela Cloudflare a cada envio ao GitHub
+  "name": "plimplimeducativos",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
